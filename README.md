@@ -1,4 +1,4 @@
-README.md
+
 
 # File Integrity Checker
 
@@ -18,3 +18,7 @@ A Python tool that monitors file changes by calculating and comparing SHA-256 ha
 
 ## Author
 Palak Behera
+
+# FileIntegrityChecker
+Java script to check file integrity using SHA-256 hash
+
